@@ -1,6 +1,6 @@
 body {
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 10;
   background-image: url(https://logique.s3-ap-southeast-1.amazonaws.com/2018/07/coding-PHP-trik.jpg);
   background-size: cover;
 }
@@ -30,15 +30,12 @@ body {
 
 .section {
   color: white;
-  text-align: center;
 }
 
 .this {
   color: white;
-  text-align: center;
 }
 
 .girr {
   color: white;
-  text-align: center;
 }
